@@ -60,7 +60,8 @@ The plot is saved as:
 
 volume_analysis.png
 
-
+# Disclaimer:
+This app is intended for research purposes only. The developers do not take any responsibility for any financial losses or damages resulting from the use of this app. Users are advised to make their own independent decisions and conduct thorough research before taking any actions based on the information provided by this app.
 
 Voly Project. All rights reserved.
 
